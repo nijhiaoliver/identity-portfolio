@@ -1,42 +1,72 @@
-Azure IAM Journey - Nijhia Oliver
+# Identity Portfolio — Nijhia Oliver
 
-🎯 About This Repository
-This repo documents my 90-day transition from IT Project Manager to Azure IAM Engineer. 
-I'm building hands-on projects while studying for AZ-500 and Okta certifications.
+Hands-on identity engineering work across Okta and Microsoft Entra ID. 
+Production-realistic configurations, exam-aligned project artifacts, and 
+applied identity governance patterns built across dedicated developer 
+tenants.
 
-📚 What I'm Learning
-- Azure AD/Entra ID (identity governance, Conditional Access, PIM)
-- Okta (SSO, lifecycle management)
-- Identity protocols (SAML, OAuth 2.0, OpenID Connect)
-- PowerShell automation for IAM
-- Identity threat detection and monitoring
+## 🎯 About This Repository
 
-🚀 Current Progress
-**Week 1** (Started: 12/16/2025)
-- ✅ GitHub account created
-- ✅ Azure free account setup
-- 🔄 Azure AD fundamentals (in progress)
+This portfolio documents my applied work in identity and privacy 
+engineering. Each project includes the business problem it solves, the 
+configuration applied, screenshots verifying the working state, and the 
+impact for security, operations, and compliance stakeholders.
 
-📂 Projects
-Coming soon:
-1. Zero Trust Access Architecture
-2. PIM Governance System
-3. Multi-Cloud SSO Hub
-4. Identity Threat Detection System
-5. Self-Service Identity Portal
+The repo serves two complementary goals: a curated body of work for 
+hiring managers and engineering peers, and structured study artifacts 
+supporting Okta and Microsoft identity certifications.
 
-📜 Certifications
-**Target**: AZ-900 (Azure Fundamentals) - Day 15
-**Target**: SC-900 (Microsoft Security, Compliance, and Identity Fundamentals) - Day 30
-**Target**: AZ-104 (Azure Administratory) - Day 30
-**Target**: SC-300 (Azure IAM Associate) - Day 50 
-**Target**: AZ-500 (Azure Security Engineer) - Day 75
-**Target**: Okta Certified Administrator - Day 90
+## 📚 What I'm Working In
 
-📫 Connect With Me
-- LinkedIn: linkedin.com/in/nijhiaoliver
-- Email: nijhia.oliver@outlook.com
+- **Okta Workforce Identity Cloud** — Universal Directory, Lifecycle 
+  Management, Authenticators, Sign-On Policies, Expression Language
+- **Microsoft Entra ID** — Conditional Access, Privileged Identity 
+  Management, hybrid identity (planned)
+- **Identity protocols** — SAML 2.0, OAuth 2.0, OpenID Connect
+- **Governance frameworks** — NIST SP 800-122, OMB Circular A-130, 
+  HIPAA Security Rule, Privacy Impact Assessments
 
----
+## 📂 Projects
 
-⭐ Follow along as I document my learning journey!
+### Okta
+
+| # | Project | Focus Area | Status |
+|---|---------|-----------|--------|
+| 01 | Attribute-Based Access Control | Universal Directory, Group Rules, Expression Language | ✅ Complete |
+| 02 | Sign-On Policies and MFA Enforcement | Global Session Policy, Authenticators | ✅ Complete |
+| 03 | MFA Enrollment Policies | Authenticator Enrollment, Risk-Based Tiers | 🔄 In progress |
+
+Additional projects covering Network Zones, SAML and SWA application 
+integrations, Universal Directory profile mappings, Lifecycle Management 
+provisioning, and offboarding workflows are planned as part of a 
+ten-project foundations track aligned to the Okta Certified Professional 
+exam blueprint.
+
+### Microsoft Entra ID
+
+Currently focused on the Okta certification track. Entra ID projects 
+covering Conditional Access, Privileged Identity Management, and hybrid 
+identity scenarios will follow.
+
+## 📜 Certification Track
+
+- Okta Certified Professional
+- Okta Certified Administrator  
+- CompTIA SecurityX (CAS-005)
+- Microsoft SC-900
+- Microsoft SC-300
+- Microsoft AZ-104
+- Microsoft AZ-500
+- ISACA CISM
+
+## 🏛️ Background
+
+MS in Cybersecurity and Information Assurance, Western Governors 
+University. Prior work spans federal IT compliance under NIST SP 800-122 
+and OMB Circular A-130, healthcare data privacy and HIPAA operations, 
+and behavioral health EHR platforms.
+
+## 📫 Connect
+
+- LinkedIn: [linkedin.com/in/nijhiaoliver](https://linkedin.com/in/nijhiaoliver)
+- GitHub: [github.com/nijhiaoliver](https://github.com/nijhiaoliver)
