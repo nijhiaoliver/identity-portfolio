@@ -36,6 +36,7 @@ supporting Okta and Microsoft identity certifications.
 | 02 | Sign-On Policies and MFA Enforcement | Global Session Policy, Authenticators | ✅ Complete |
 | 03 | MFA Enrollment Policies | Authenticator Enrollment, Risk-Based Tiers | ✅ Complete |
 | 04 | Network Zones and Adaptive Access | Adaptive Access, Zero Trust, Geographic Controls | ✅ Complete |
+| 05 | SAML Application from OIN | Application Setup, SAML 2.0 Federation, OIN Catalog | ✅ Complete |
 
 Additional projects covering Network Zones, SAML and SWA application 
 integrations, Universal Directory profile mappings, Lifecycle Management 
